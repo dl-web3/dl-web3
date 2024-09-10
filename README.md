@@ -43,6 +43,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif?cid=ecf05e47x9ildvoorx506sj4n2yvr7ot63zd2cf2cp3ycz8t&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
